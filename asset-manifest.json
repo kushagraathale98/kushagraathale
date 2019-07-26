@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.6b64dbee.chunk.js",
-    "main.js.map": "/static/js/main.6b64dbee.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7355a659.chunk.js": "/static/js/2.7355a659.chunk.js",
-    "static/js/2.7355a659.chunk.js.map": "/static/js/2.7355a659.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.72881903438b0483f0e2fbf7ba190ede.js": "/precache-manifest.72881903438b0483f0e2fbf7ba190ede.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/kushagraathale/static/css/main.34de6062.chunk.css",
+    "main.js": "/kushagraathale/static/js/main.ebc98be6.chunk.js",
+    "main.js.map": "/kushagraathale/static/js/main.ebc98be6.chunk.js.map",
+    "runtime~main.js": "/kushagraathale/static/js/runtime~main.58e6914a.js",
+    "runtime~main.js.map": "/kushagraathale/static/js/runtime~main.58e6914a.js.map",
+    "static/js/2.7355a659.chunk.js": "/kushagraathale/static/js/2.7355a659.chunk.js",
+    "static/js/2.7355a659.chunk.js.map": "/kushagraathale/static/js/2.7355a659.chunk.js.map",
+    "index.html": "/kushagraathale/index.html",
+    "precache-manifest.a95c9e8cd0ae949bef0f9f150d501d8f.js": "/kushagraathale/precache-manifest.a95c9e8cd0ae949bef0f9f150d501d8f.js",
+    "service-worker.js": "/kushagraathale/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/kushagraathale/static/css/main.34de6062.chunk.css.map"
   }
 }
