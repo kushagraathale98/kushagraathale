@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "669d4c2014ca096cc06fd61acf95acfe",
+    "revision": "fc09ddc7ffc4572be5207d337026a87e",
     "url": "/kushagraathale/index.html"
   },
   {
-    "revision": "9a60a4e5bb7d177ad4d9",
+    "revision": "a0d7a3cd96eecf8cf4f8",
     "url": "/kushagraathale/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kushagraathale/static/js/2.c799a965.chunk.js"
   },
   {
-    "revision": "9a60a4e5bb7d177ad4d9",
-    "url": "/kushagraathale/static/js/main.44f24bcf.chunk.js"
+    "revision": "a0d7a3cd96eecf8cf4f8",
+    "url": "/kushagraathale/static/js/main.55987687.chunk.js"
   },
   {
     "revision": "7712db60626ca8b580f7",
